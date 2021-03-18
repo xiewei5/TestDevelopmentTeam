@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/aojie/aojie.iml" filepath="$PROJECT_DIR$/aojie/aojie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lifangna/lifangna.iml" filepath="$PROJECT_DIR$/lifangna/lifangna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luxun/liwuyong.iml" filepath="$PROJECT_DIR$/luxun/liwuyong.iml" />
       <module fileurl="file://$PROJECT_DIR$/luxun/luxun.iml" filepath="$PROJECT_DIR$/luxun/luxun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luxun/sunchao.iml" filepath="$PROJECT_DIR$/luxun/sunchao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunyanl/sunyanl.iml" filepath="$PROJECT_DIR$/sunyanl/sunyanl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangpei/wangpei.iml" filepath="$PROJECT_DIR$/wangpei/wangpei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiewei/xiewei.iml" filepath="$PROJECT_DIR$/xiewei/xiewei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yanshibin/yanshibin.iml" filepath="$PROJECT_DIR$/yanshibin/yanshibin.iml" />
       <module fileurl="file://$PROJECT_DIR$/yaojs/yaojs.iml" filepath="$PROJECT_DIR$/yaojs/yaojs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yaojs/yaojw.iml" filepath="$PROJECT_DIR$/yaojs/yaojw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhoutao/zhoutao.iml" filepath="$PROJECT_DIR$/zhoutao/zhoutao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhulihua/zhulihua.iml" filepath="$PROJECT_DIR$/zhulihua/zhulihua.iml" />
     </modules>
   </component>
 </project>
