@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c035cdad-c37a-4977-932d-4d4ef0b962e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lifangna/lifangna.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luxun/liwuyong.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luxun/sunchao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sunyanl/sunyanl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wangpei/wangpei.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiewei/xiewei.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yaojs/yaojw.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zhoutao/zhoutao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zhulihua/zhulihua.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aojie/aojie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aojie/aojie.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/src/secondweek/weather/HttpUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/yanshibin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yanshibin/yanshibin.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +33,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="2" />
-          <entry key="txt" value="12" />
+          <entry key="txt" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="PLAIN_TEXT" value="55" />
         </counts>
       </usages-collector>
     </session>
@@ -186,18 +173,43 @@
           <expand>
             <path>
               <item name="TestDevelopmentTeam" type="58d84e3e:PackageViewProjectNode" />
-              <item name="yanshibin" type="616d4139:PackageViewModuleNode" />
+              <item name="aojie" type="616d4139:PackageViewModuleNode" />
             </path>
             <path>
               <item name="TestDevelopmentTeam" type="58d84e3e:PackageViewProjectNode" />
-              <item name="yanshibin" type="616d4139:PackageViewModuleNode" />
-              <item name="secondweek" type="1f31426a:PackageElementNode" />
+              <item name="lifangna" type="616d4139:PackageViewModuleNode" />
             </path>
             <path>
               <item name="TestDevelopmentTeam" type="58d84e3e:PackageViewProjectNode" />
-              <item name="yanshibin" type="616d4139:PackageViewModuleNode" />
-              <item name="secondweek" type="1f31426a:PackageElementNode" />
-              <item name="weather" type="1f31426a:PackageElementNode" />
+              <item name="liwuyong" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TestDevelopmentTeam" type="58d84e3e:PackageViewProjectNode" />
+              <item name="luxun" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TestDevelopmentTeam" type="58d84e3e:PackageViewProjectNode" />
+              <item name="sunyanl" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TestDevelopmentTeam" type="58d84e3e:PackageViewProjectNode" />
+              <item name="wangpei" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TestDevelopmentTeam" type="58d84e3e:PackageViewProjectNode" />
+              <item name="yaojs" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TestDevelopmentTeam" type="58d84e3e:PackageViewProjectNode" />
+              <item name="yaojw" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TestDevelopmentTeam" type="58d84e3e:PackageViewProjectNode" />
+              <item name="zhoutao" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="TestDevelopmentTeam" type="58d84e3e:PackageViewProjectNode" />
+              <item name="zhulihua" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -210,7 +222,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616078996233" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616079400562" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -374,15 +386,28 @@
       <option name="project" value="LOCAL" />
       <updated>1615638218726</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="注意: 每个人都创建了自己的文件夹,自己新增自己的内容,千万记住先更新再提交">
+      <created>1616078902527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616078902527</updated>
+    </task>
+    <task id="LOCAL-00003" summary="注意: 每个人都创建了自己的文件夹,自己新增自己的内容,千万记住先更新再提交">
+      <created>1616079075585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616079075585</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1669000" />
+    <option name="totallyTimeSpent" value="2175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340015" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -441,7 +466,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20210313" />
-    <option name="LAST_COMMIT_MESSAGE" value="20210313" />
+    <MESSAGE value="注意: 每个人都创建了自己的文件夹,自己新增自己的内容,千万记住先更新再提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="注意: 每个人都创建了自己的文件夹,自己新增自己的内容,千万记住先更新再提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/yaojs/src/newyjw.java">
