@@ -4,56 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c035cdad-c37a-4977-932d-4d4ef0b962e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_3_7_v20160115.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/weather_util.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/game/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/game/gameuser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/game/pokerinfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section2_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section2_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section3_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section3_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section3_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section3_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section4/ChildCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section4/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section4/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section4/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section4/TestGeneric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_3_2021_18_11__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_3_2021_18_11__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_3_2021_11_20__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_3_2021_11_20__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_3_2021_11_20__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_3_2021_11_20__Default_Changelist_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/lib/weather-util-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/lib/weather-util.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yanshibin/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/src/secondweek/weather/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/yanshibin/src/secondweek/weather/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/src/secondweek/weather/baseWeatherImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/yanshibin/src/secondweek/weather/baseWeatherImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/target/classes/secondweek/weather/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/target/classes/secondweek/weather/HttpUtils$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/target/classes/secondweek/weather/HttpUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/target/classes/secondweek/weather/aaa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/target/classes/secondweek/weather/baseWeather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/target/classes/secondweek/weather/baseWeatherImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/target/classes/secondweek/weather/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yanshibin/yanshibin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yanshibin/yanshibin.iml" afterDir="false" />
+    <list default="true" id="c035cdad-c37a-4977-932d-4d4ef0b962e0" name="Default Changelist" comment="111">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06_[Default_Changelist]/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06_[Default_Changelist]/aaa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06_[Default_Changelist]/baseWeatherImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06_[Default_Changelist]1/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06_[Default_Changelist]1/aaa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06_[Default_Changelist]1/baseWeatherImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06_[Default_Changelist]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06__Default_Changelist_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yanshibin/src/thirdweek/section2_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,6 +201,7 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616161185750" />
@@ -348,7 +311,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616079427378</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="111">
+      <created>1616226883278</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616226883278</updated>
+    </task>
+    <task id="LOCAL-00006" summary="111">
+      <created>1616226945647</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616226945647</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -407,7 +384,8 @@
     <MESSAGE value="20210313" />
     <MESSAGE value="注意: 每个人都创建了自己的文件夹,自己新增自己的内容,千万记住先更新再提交" />
     <MESSAGE value="每个人都创建了自己的文件夹,自己新增自己的内容,千万记住先更新再提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="每个人都创建了自己的文件夹,自己新增自己的内容,千万记住先更新再提交" />
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/yaojs/src/newyjw.java" />
