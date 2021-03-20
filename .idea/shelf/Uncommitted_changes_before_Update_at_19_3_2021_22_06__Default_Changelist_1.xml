@@ -1,0 +1,19 @@
+<changelist name="Uncommitted_changes_before_Update_at_19_3_2021_22_06_[Default_Changelist]1" date="1616162935729" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06_[Default_Changelist]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 19/3/2021 22:06 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="yanshibin/target/classes/secondweek/weather/baseWeatherImpl.class" />
+    <option name="AFTER_PATH" value="yanshibin/target/classes/secondweek/weather/baseWeatherImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06_[Default_Changelist]1/baseWeatherImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="yanshibin/target/classes/secondweek/weather/Application.class" />
+    <option name="AFTER_PATH" value="yanshibin/target/classes/secondweek/weather/Application.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06_[Default_Changelist]1/Application.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="yanshibin/target/classes/secondweek/weather/aaa.class" />
+    <option name="AFTER_PATH" value="yanshibin/target/classes/secondweek/weather/aaa.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_3_2021_22_06_[Default_Changelist]1/aaa.class" />
+  </binary>
+</changelist>
