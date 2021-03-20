@@ -26,10 +26,10 @@ public class baseWeatherImpl implements baseWeather {
             System.out.println(response.toString());
             //获取response的body
             result = EntityUtils.toString(response.getEntity());
+            System.out.println("Result:"+result);
         } catch (Exception e) {
             e.printStackTrace();
         }
-
         return result;
     }
 

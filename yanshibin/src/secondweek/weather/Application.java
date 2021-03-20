@@ -1,9 +1,12 @@
 package secondweek.weather;
 
 
+import com.google.gson.Gson;
+
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.Map;
 import java.util.Scanner;
 
 public class Application {
@@ -20,6 +23,11 @@ public class Application {
             baseWeather weather = new baseWeatherImpl();
             String result = weather.query24h("89b3d33757314ff5a82dd5d72fb4673a",city);
             System.out.println(result);
+
+            Gson gs = new Gson();
+            Map<String,String> map = gs.fromJson(result, Map.class);
+            System.out.println(map.get("showapi_res_body"));
+
         }else if(i>=2 && i<=7){
             System.out.print("请输入城市名称查询未来"+i+"天天气预报:");
             String city = scanner.next();
